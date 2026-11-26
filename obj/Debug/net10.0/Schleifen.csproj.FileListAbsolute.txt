@@ -1,0 +1,15 @@
+C:\Users\s.alloush\INF\projekte\Schleifen\bin\Debug\net10.0\Schleifen.exe
+C:\Users\s.alloush\INF\projekte\Schleifen\bin\Debug\net10.0\Schleifen.deps.json
+C:\Users\s.alloush\INF\projekte\Schleifen\bin\Debug\net10.0\Schleifen.runtimeconfig.json
+C:\Users\s.alloush\INF\projekte\Schleifen\bin\Debug\net10.0\Schleifen.dll
+C:\Users\s.alloush\INF\projekte\Schleifen\bin\Debug\net10.0\Schleifen.pdb
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.AssemblyInfoInputs.cache
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.AssemblyInfo.cs
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.csproj.CoreCompileInputs.cache
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.sourcelink.json
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.dll
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\refint\Schleifen.dll
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.pdb
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\Schleifen.genruntimeconfig.cache
+C:\Users\s.alloush\INF\projekte\Schleifen\obj\Debug\net10.0\ref\Schleifen.dll

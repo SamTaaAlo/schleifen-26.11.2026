@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Schleifen")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+896220f236dd7f4715c055c1a6388b36af72107c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Schleifen")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Schleifen")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
