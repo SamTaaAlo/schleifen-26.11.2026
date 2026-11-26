@@ -7,6 +7,11 @@ namespace MyProject
     {
         static void Main(string[] args)
         {
+            Aufgabe1();
+        }
+
+        static void Aufgabe1()
+        {
             int start_zahl = 0;
 
             Console.Write("Gib eine Startzahl ein: ");
